@@ -8,7 +8,7 @@ layout: default
 <dt>This addin use both pml and pml.net. The form was wrriten in pml and the colorful gridview was written in c#.</dt>
 </dl>
 ![DesignReview](/media/pdms-design_review.png)
-![DesignReviewCode](/media/pdms-design_review_code.png)
+
 
 
 ## Header 2
