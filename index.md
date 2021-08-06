@@ -27,7 +27,7 @@ layout: default
 
 > Export support mto.
 
-![supportmto](/media/pdms-supportmto.png)
+![supportmto](/media/pdms-support_mto.png)
 
 ## 5. Other addins
 
