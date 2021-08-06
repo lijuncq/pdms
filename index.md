@@ -14,7 +14,7 @@ layout: default
 # Powerlist (pml)
 
 > A powerful tool to replace the system list tool, You can use this tool to search, add colmuns, subtotal and export.
-![Powerlist](/media/pdms-powerlist.png)
+  ![Powerlist](/media/pdms-powerlist.png)
 
 
 ### Header 3
