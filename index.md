@@ -23,7 +23,7 @@ layout: default
 
 ![supportcheck](/media/pdms-supportcheck.png)
 
-## 4. Support mto extract (pml)
+## 4. Support mto export (pml)
 
 > Export support mto.
 
